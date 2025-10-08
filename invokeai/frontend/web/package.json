@@ -76,7 +76,7 @@
     "konva": "^9.3.15",
     "lodash-es": "^4.17.21",
     "lru-cache": "^11.0.1",
-    "nanoid": "^5.0.7",
+    "nanoid": "^5.0.9",
     "nanostores": "^0.11.3",
     "new-github-issue-url": "^1.0.0",
     "overlayscrollbars": "^2.10.0",
